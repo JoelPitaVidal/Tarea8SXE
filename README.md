@@ -32,3 +32,9 @@ db: # Servicio para la base de datos MySQL
     volumes: 
       - db:/var/lib/mysql # Persistencia para los datos de MySQL
 ```
+
+## Usuários,entradas y permísos
+
+Se han creado 3 usuarios:
+
+
