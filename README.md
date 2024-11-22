@@ -32,9 +32,34 @@ db: # Servicio para la base de datos MySQL
     volumes: 
       - db:/var/lib/mysql # Persistencia para los datos de MySQL
 ```
+## Accéso y tema
+
+Introduciéndo las credenciáles podremos acceder al servício
+![Texto alternativo](imagenesWordpres/acceso.jpg)
+
+Y accederémos a la página de inicio, desde la cual en la pestaña 
+de la izquierda en el icóno del pincel, seleccionámos la opción 
+-`cambiar tema` para instalar el que más nos guste, en este caso se 
+a elegido el tema -`Astra`
+
+OJO: Cuidado al escoger tema, algúnos son de pago!!
+
+![Texto alternativo](imagenesWordpres/inicio.jpg)
+
 
 ## Usuários,entradas y permísos
 
 Se han creado 3 usuarios:
 
+![Texto alternativo](imagenesWordpres/usuarios.jpg)
+
+Cada uno a echo una entrada diferente:
+
+![Texto alternativo](imagenesWordpres/entradaColaborador.jpg)
+
+![Texto alternativo](imagenesWordpres/entradaEditor.jpg)
+
+![Texto alternativo](imagenesWordpres/entradaAutor.jpg)
+
+A la hóra de publicar
 
