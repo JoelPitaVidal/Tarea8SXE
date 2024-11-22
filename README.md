@@ -61,5 +61,15 @@ Cada uno a echo una entrada diferente:
 
 ![Texto alternativo](imagenesWordpres/entradaAutor.jpg)
 
-A la hóra de publicar
+A la hóra de publicar entrádas o corregirlas, tanto el -`editor` como el
+-`autor` pueden crear,corregir y eliminar con total livertad, el cambio llega
+con el -`colaborador`, el cual no puede modificar o editar ninguna entrada 
+que no sea sulla. 
+
+![Texto alternativo](imagenesWordpres/colaboradorNoBorraTodo.jpg)
+
+A la hora de publicar este debe esperar a que un Editor
+la revise y la apruebe.
+
+![Texto alternativo](imagenesWordpres/colaboradorLimitado.jpg)
 
